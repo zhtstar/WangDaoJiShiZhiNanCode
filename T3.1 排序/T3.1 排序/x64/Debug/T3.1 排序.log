@@ -1,0 +1,4 @@
+﻿  T3.1 排序.cpp
+D:\Codes\C++Code\WDJS\T3.1 排序\T3.1 排序\T3.1 排序.cpp(44,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Codes\C++Code\WDJS\T3.1 排序\T3.1 排序\T3.1 排序.cpp(45,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  T3.1 排序.vcxproj -> D:\Codes\C++Code\WDJS\T3.1 排序\x64\Debug\T3.1 排序.exe
